@@ -5,7 +5,7 @@ using UnityEngine;
 public class Sample : MonoBehaviour
 {
     // Start is called before the first frame update
-    // ハロー/
+    // ハローだよ！/
     void Start()
     {
         
