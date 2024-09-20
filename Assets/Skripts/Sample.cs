@@ -8,7 +8,6 @@ public class Sample : MonoBehaviour
     // ハローだよ！/
     void Start()
     {
-        
     }
 
     // Update is called once per frame
